@@ -41,6 +41,10 @@ PHP课程官网：https://www.sodevel.com
 - 双击 “停止全部.bat” 即可停止全部服务
 - 双击 “重启nginx.bat”即可重启nginx
 
+## 测试效果
+
+输入 `http://127.0.0.1/phpmyadmin/` 和 `http://127.0.0.1/` 能看到数据库管理工具、PHP状态信息，就算成功。
+
 ## xxx.dll 不存在的解决方案
 
 本套件需要 vc10、vc11、vc14 库方可运行。
