@@ -13,7 +13,7 @@ RunHiddenConsole %php5_path%\php5-cgi.exe -b 127.0.0.1:9001 -c %php5_path%\php.i
 echo Starting nginx...
 RunHiddenConsole %nginx_path%\nginx.exe -c %nginx_path%\conf\nginx.conf
 echo Starting MySql...
-RunHiddenConsole %mysql_path%\bin\mysqld 
+RunHiddenConsole %mysql_path%\bin\mysqld --defaults-file=%mysql_path%\my.ini --port=3306
 echo Start all success! 3 seconds later will be close!
 ping -n 3 127.0.0.1 > nul
 exit
