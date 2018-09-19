@@ -24,6 +24,8 @@
 
 ## 下载
 
+[https://github.com/983430207/sodevel-wnmp/archive/master.zip](https://github.com/983430207/sodevel-wnmp/archive/master.zip)
+
 ## 安装
 
 解压文件到任意目录（注意：目录中不能出现中文和空格），建议使用 `d:\wnmp` 这样简单的目录位置。
