@@ -31,8 +31,8 @@ PHP课程官网：https://www.sodevel.com
 
 [https://github.com/983430207/sodevel-wnmp/archive/master.zip](https://github.com/983430207/sodevel-wnmp/archive/master.zip)
 
-部分同学反映下载速度慢，提供国内备份地址：[点此下载](https://gitee.com/sodevel/sodevel-wnmp/repository/archive/master.zip)
-
+部分同学反映下载速度慢，提供国内备份地址：[点此下载](https://gitee.com/sodevel/sodevel-wnmp/) 在页面右侧寻找 “克隆/下载”的按钮，选择 `下载zip`。
+ 
 ## 安装
 
 解压文件到任意目录（注意：目录中不能出现中文和空格），建议使用 `d:\wnmp` 这样简单的目录位置。
